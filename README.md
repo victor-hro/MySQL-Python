@@ -1,3 +1,3 @@
 # MySQL-Python
 
-SQl utils
+SQL utils
