@@ -2,7 +2,7 @@ from mysql.connector import connect
 from contextlib import contextmanager
 
 parameters = dict(
-    host= '127.0.0.1',
+    host= 'localhost',
     port=3306,
     user='root',
     passwd='roots',
