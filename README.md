@@ -1,9 +1,9 @@
 # MySQL-Python
 
-SQL utils
+## SQL utils
 
-- db.py: notebook utilizado para iniciar a conexão, contendo informações necessárias de host e password;
-
-- create_database.py: cria a base de dados;
-- drop tables;
-- list tables;
+  - [x] Create database;
+  - [x] Starts a new connection;
+  - [x] Create Table;
+  - [x] List tables;
+  - [x] Drop table.
